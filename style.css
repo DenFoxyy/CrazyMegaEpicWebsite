@@ -1,0 +1,35 @@
+body {
+    height: 100%;
+    margin:0;
+    color: rgb(0, 0, 0);
+    font-family: fantasy;
+    background-image: url("https://media1.tenor.com/m/ILZlo8DE2JwAAAAd/legs-down-is-ts-tuff-in-india.gif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: larger;
+
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 190px;
+    text-shadow: 2px 2px 5px red;
+    margin-top: 0%;
+    margin-bottom: 4%;
+}
+.navbar{
+    background-color: black;
+}
+iframe{
+    border: none;
+}
+.main{
+    display: flex;
+    justify-content:flex-start;
+}
+.main *{
+    width: 100%;
+    height:820.5px;
+}
